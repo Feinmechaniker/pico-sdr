@@ -3,10 +3,10 @@ This repository holds files relevant to the PiCo Rx project - a design by Jon Da
 I adopted this wonderful idea from Jon to customize the hardware to my liking.
 
 current circuit diagram
-![diagram](/Feinmechaniker/pico-sdr/blob/master/01_sheet/PICO_SDR.sch.pdf)
+![diagram](Feinmechaniker/pico-sdr/blob/master/01_sheet/PICO_SDR.sch.pdf)
 
 current circuit board (Top-Side)
-![Top](/Feinmechaniker/pico-sdr/tree/master/00_doc/LP_Top.png)
+![Top](Feinmechaniker/pico-sdr/tree/master/00_doc/LP_Top.png)
 
 current circuit board (Bottom-Side)
-![Top](/Feinmechaniker/pico-sdr/tree/master/00_doc/LP_Bottom.png)
+![Top](Feinmechaniker/pico-sdr/tree/master/00_doc/LP_Bottom.png)
