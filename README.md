@@ -6,7 +6,9 @@ current circuit diagram
 ![diagram](01_sheet/PICO_SDR.sch.pdf)
 
 current circuit board (Top-Side)
+
 ![Top](00_doc/LP_Top.png)
 
 current circuit board (Bottom-Side)
+
 ![Top](00_doc/LP_Bottom.png)
